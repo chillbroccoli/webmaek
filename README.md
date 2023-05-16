@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper Małek</h1>
-<h3 align="center">Frontend developer. I love to watch movies and tv shows, I'm a big fan of F1 and I do make amazing pizzas.</h3>
+<h3 align="center">Frontend Developer | Building Exceptional User Interfaces with React</h3>
 
 - 👨‍💻 Personal website/portfolio [https://www.webmaek.xyz/](https://www.webmaek.xyz/)
 
